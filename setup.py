@@ -31,5 +31,6 @@ setup(
     packages=packages,
     package_dir={'common': 'common'},
     package_data={'common': data_files},
+    zip_safe = False,
     entry_points={'django.apps': 'common = common'},
 )
