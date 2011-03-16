@@ -1,1 +1,2 @@
-This is test for git flow
+2nd test commit
+1st test commit
